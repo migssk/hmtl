@@ -1,0 +1,37 @@
+{
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+ <_________ class="cabecalho">
+           <a _________="index.html">
+               <_________ src="logo.svg" alt="Logo da AluraBooks">
+           </a>        
+    <_________>   @import url("estilos/cabecalho.css");
+@import url("estilos/corpo.css");
+@import url("estilos/rodape.css");
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><_________>
+  <link rel="preconnect" 
+      href="https://fonts.googleapis.com">
+  <link rel="preconnect" 
+      href="https://fonts.gstatic.com" crossorigin>
+  <_____  rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=__________:wght@300;400;500;700&display=swap">
+<_________>
+</link>
+       <!-- 2º linha -->
+            <______ class="card__botões">
+                <!-- 1º coluna -->
+                <______ class="botões">
+                    <li class="botões__item"><img src="img/Favoritos.svg></li>
+                    <li class="botões__item"><img src="img/Compras.svg></li>
+                <______ >
+                <!-- 2º coluna -->
+                <a ______="#" class="botões__ancora">Saiba mais</a>
+            <______>
+.contato__nome::____________ {
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    _______________: url("../img/cartinha.svg") no-________;
+    padding-left: 2em;
+}
